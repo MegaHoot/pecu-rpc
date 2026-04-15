@@ -1,0 +1,23 @@
+{
+  "name": "pecu-rpc",
+  "version": "1.0.0",
+  "description": "TypeScript SDK and example apps for the PecuNovus JSON-RPC endpoint",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "ts-node src/index.ts",
+    "lint": "eslint src --ext .ts",
+    "test": "jest"
+  },
+  "keywords": ["pecu", "pecunovus", "rpc", "ethereum", "json-rpc", "blockchain"],
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^6.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.5"
+  }
+}
