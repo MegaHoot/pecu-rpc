@@ -195,7 +195,7 @@ With the Pecu 3.0 Themis upgrade, Pecu Novus offers **full EVM equivalence**, me
 | Document | Authors | Date | Description |
 |---|---|---|---|
 | **[Original Whitepaper](WHITEPAPER_2018.md)** | Vinci Gauss, Sri Ram | January 2018 | Founding vision, network design, escrow system, tokenomics, and technical specifications of the original Pecu Novus network |
-| **[Technical Whitepaper 2024](WHITEPAPER.md)** | L. Velazquez, A. Bhardwaj | June 2024 | Applied architecture of Pecu 2.0, hybrid PoT/PoS consensus, PNP16 protocol, smart contracts, Golang integration, industry applications, and updated tokenomics |
+| **[Technical Whitepaper 2024](WHITEPAPER.md)** | L. Velazquez, A. B | June 2024 | Applied architecture of Pecu 2.0, hybrid PoT/PoS consensus, PNP16 protocol, smart contracts, Golang integration, industry applications, and updated tokenomics |
 
 ---
 
